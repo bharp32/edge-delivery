@@ -119,7 +119,8 @@ header nav[aria-expanded="true"] .nav-hamburger-icon {
 
 header nav[aria-expanded="true"] .nav-hamburger-icon::before,
 header nav[aria-expanded="true"] .nav-hamburger-icon::after {
-  top: 3px;
+  /* top: 3px; */
+  top: 20px;
   left: 1px;
   transform: rotate(45deg);
   transform-origin: 2px 1px;
