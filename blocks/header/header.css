@@ -102,8 +102,12 @@ header nav[aria-expanded="false"] .nav-hamburger-icon::after {
   background: currentcolor;
 }
 
-header nav[aria-expanded="false"] .nav-hamburger-icon::before {
+/* header nav[aria-expanded="false"] .nav-hamburger-icon::before {
   top: -6px;
+} */
+
+header nav[aria-expanded="false"] .nav-hamburger-icon::before {
+  bottom: -6px;
 }
 
 header nav[aria-expanded="false"] .nav-hamburger-icon::after {
