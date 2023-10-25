@@ -266,3 +266,7 @@ main .section.highlight {
   display: block;
   font-size: 14pt;
 }
+
+.navigation > li {
+  line-height: 20px;
+}
