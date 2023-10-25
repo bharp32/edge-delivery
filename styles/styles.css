@@ -329,5 +329,8 @@ main .section.highlight {
   border-bottom-color: rgba(0, 0, 0, 0.2);
 }
 
+main .hero-container > div {
+  max-width: 15;
+}
 
 
