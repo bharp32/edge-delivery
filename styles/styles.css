@@ -329,7 +329,7 @@ main .section.highlight {
   border-bottom-color: rgba(0, 0, 0, 0.2);
 }
 
-main .hero-container > div {
+.hero-container > .hero-wrapper > .default-content-wrapper {
   max-width: 15;
 }
 
