@@ -249,3 +249,8 @@ main .section {
 main .section.highlight {
   background-color: var(--highlight-background-color);
 }
+
+/* Navigation section */
+.navigation {
+  height: 12px;
+}
