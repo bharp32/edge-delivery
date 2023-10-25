@@ -308,4 +308,8 @@ main .section.highlight {
   filter: alpha(opacity=100);
 }
 
+.default-content-wrapper > a {
+ border:#136ff6;
+}
+
 
