@@ -320,7 +320,6 @@ main .section.highlight {
 .default-content-wrapper {
   display:block;
   position: relative;
-  max-width: 15px;
   top: 5px;
   right: 10px;
   display: block;
