@@ -251,6 +251,12 @@ main .section.highlight {
 }
 
 /* Navigation section */
+
+.navigation {
+  -webkit-box-shadow: 0 -1px 10px rgba(0, 0, 0, 0.1);
+     -moz-box-shadow: 0 -1px 10px rgba(0, 0, 0, 0.1);
+          box-shadow: 0 -1px 10px rgba(0, 0, 0, 0.1);
+}
 .navigation {
   float: none;
   padding: 10px 15px 10px;
@@ -262,6 +268,3 @@ main .section.highlight {
   list-style: none;
 }
 
-li {
-  line-height: 20px;
-}
