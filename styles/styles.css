@@ -319,6 +319,7 @@ main .section.highlight {
 
 .default-content-wrapper {
   display:block;
+  width: 18px;
 }
 
 
