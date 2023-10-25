@@ -320,6 +320,7 @@ main .section.highlight {
 .default-content-wrapper {
   display:block;
   position: relative;
+  max-width: 15px;
   top: 5px;
   right: 10px;
   display: block;
@@ -329,8 +330,5 @@ main .section.highlight {
   border-bottom-color: rgba(0, 0, 0, 0.2);
 }
 
-.hero-container > .hero-wrapper > .default-content-wrapper {
-  max-width: 15px;
-}
 
 
