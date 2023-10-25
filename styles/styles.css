@@ -277,4 +277,8 @@ main .section.highlight {
   list-style: none;
 }
 
+.navigation {
+  margin-top: 8px;
+}
+
 
