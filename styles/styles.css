@@ -281,4 +281,10 @@ main .section.highlight {
   margin-top: 8px;
 }
 
+.navigation {
+  color: #333333;
+  text-decoration: none;
+  background-color: transparent;
+}
+
 
