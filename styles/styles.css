@@ -276,3 +276,8 @@ main .section.highlight {
   margin: 0 10px 0 0;
 }
 
+.navigation {
+  float: right;
+  margin-right: 0;
+}
+
