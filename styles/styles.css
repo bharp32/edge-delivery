@@ -321,7 +321,7 @@ main .section.highlight {
   display:block;
   position: absolute;
   top: 400px;
-  left: 9px;
+  left: 100px;
   display: inline-block;
   border-right: 7px solid transparent;
   border-bottom: 7px solid #ccc;
