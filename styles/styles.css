@@ -262,3 +262,6 @@ main .section.highlight {
   list-style: none;
 }
 
+li {
+  line-height: 20px;
+}
