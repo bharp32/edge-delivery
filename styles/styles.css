@@ -257,6 +257,15 @@ main .section.highlight {
      -moz-box-shadow: 0 -1px 10px rgba(0, 0, 0, 0.1);
           box-shadow: 0 -1px 10px rgba(0, 0, 0, 0.1);
 }
+
+.navigation {
+  position: relative;
+  left: 0;
+  display: block;
+  float: left;
+  margin: 0 10px 0 0;
+}
+
 .navigation {
   float: none;
   padding: 10px 15px 10px;
@@ -268,16 +277,4 @@ main .section.highlight {
   list-style: none;
 }
 
-.navigation {
-  position: relative;
-  left: 0;
-  display: block;
-  float: left;
-  margin: 0 10px 0 0;
-}
-
-.navigation {
-  float: right;
-  margin-right: 0;
-}
 
