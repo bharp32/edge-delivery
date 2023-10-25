@@ -274,7 +274,7 @@ main .section.highlight {
 
 .navigation {
   display:inline-block;
-  float:inline-end;
+  float:inline-start;
   padding: 7px 10px;
   margin-right: 5px;
   margin-left: 5px;
