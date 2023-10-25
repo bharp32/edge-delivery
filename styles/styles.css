@@ -253,4 +253,5 @@ main .section.highlight {
 /* Navigation section */
 .navigation {
   height: 400px;
+  box-sizing: border-box;
 }
