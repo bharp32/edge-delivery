@@ -251,7 +251,7 @@ main .section.highlight {
 }
 
 /* Navigation section */
-.navigation > li > a {
+.navigation {
   float: none;
   padding: 10px 15px 10px;
   color: #777777;
