@@ -268,3 +268,11 @@ main .section.highlight {
   list-style: none;
 }
 
+.navigation {
+  position: relative;
+  left: 0;
+  display: block;
+  float: left;
+  margin: 0 10px 0 0;
+}
+
