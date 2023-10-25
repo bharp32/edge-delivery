@@ -309,7 +309,7 @@ main .section.highlight {
 }
 
 .default-content-wrapper > a {
-  display: none;
+  /* display: none; */
   float: right;
   padding: 7px 10px;
   margin-right: 5px;
