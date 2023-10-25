@@ -319,7 +319,7 @@ main .section.highlight {
 
 .default-content-wrapper {
   display:block;
-  position: absolute;
+  position: relative;
   top: 400px;
   right: 100px;
   display: inline-block;
