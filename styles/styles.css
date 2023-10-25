@@ -320,7 +320,7 @@ main .section.highlight {
 .default-content-wrapper {
   display:block;
   position: absolute;
-  top: -7px;
+  top: 25px;
   left: 9px;
   display: inline-block;
   border-right: 7px solid transparent;
