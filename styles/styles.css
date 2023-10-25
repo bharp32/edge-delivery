@@ -322,7 +322,7 @@ main .section.highlight {
   position: relative;
   top: 400px;
   right: 100px;
-  display: inline-block;
+  display: block;
   border-right: 7px solid transparent;
   border-bottom: 7px solid #ccc;
   border-left: 7px solid transparent;
