@@ -282,7 +282,6 @@ main .section.highlight {
 }
 
 .navigation {
-  display: none;
   float: right;
   padding: 7px 10px;
   margin-right: 5px;
