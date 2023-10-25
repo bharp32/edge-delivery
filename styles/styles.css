@@ -308,7 +308,7 @@ main .section.highlight {
   filter: alpha(opacity=100);
 }
 
-.default-content-wrapper > p {
+.default-content-wrapper > a {
   display: none;
   float: right;
   padding: 7px 10px;
