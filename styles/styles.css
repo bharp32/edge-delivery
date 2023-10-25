@@ -251,7 +251,7 @@ main .section.highlight {
 }
 
 /* Navigation section */
-.navigation {
+.navigation > li > a {
   float: none;
   padding: 10px 15px 10px;
   color: #777777;
@@ -262,11 +262,3 @@ main .section.highlight {
   list-style: none;
 }
 
-.navigation > li > a {
-  display: block;
-  font-size: 14pt;
-}
-
-.navigation > li {
-  line-height: 20px;
-}
