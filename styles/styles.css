@@ -302,8 +302,8 @@ main .section.highlight {
 }
 
 .navigation {
-  border-top-color: #ffffff;
-  border-bottom-color: #ffffff;
+  border-top-color: #005580;
+  border-bottom-color: #005580;
   opacity: 1;
   filter: alpha(opacity=100);
 }
