@@ -13,7 +13,7 @@ header nav {
     'hamburger brand tools' var(--nav-height)
     'sections sections sections' 1fr / auto 1fr auto;
   align-items: center;
-  gap: 0 2em;
+  
   margin: auto;
   max-width: 1264px;
   height: var(--nav-height);
@@ -156,7 +156,7 @@ header .nav-brand {
 }
 
 header nav .nav-brand img {
-  
+  border: 6px solid #fff;
   height: auto;
   vertical-align: middle;
 }
@@ -204,6 +204,7 @@ header nav .nav-sections ul > li > ul > li {
 
   header nav[aria-expanded="true"] .nav-sections {
     align-self: unset;
+    width: 1170px;
   }
 
   header nav .nav-sections .nav-drop {
