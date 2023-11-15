@@ -31,3 +31,11 @@
     order: unset;
   }
 }
+
+.columns > .offer1 {
+  background-color: #eee;
+}
+
+.offer1 {
+  background-color: #eee;
+}
